@@ -13,6 +13,6 @@ See [Project Vision](ProjectVision.md)
 ## Team Members
 * Austin Marino
 * Cole Bennett
-* Ben Hamlim
+* Ben Hamlin
 * Sam Schreiber
 * Eric Hjort
